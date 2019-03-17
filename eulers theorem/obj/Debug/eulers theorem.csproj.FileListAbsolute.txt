@@ -1,0 +1,6 @@
+c:\users\johnd\onedrive\documents\visual studio 2015\Projects\eulers theorem\eulers theorem\bin\Debug\eulers theorem.exe.config
+c:\users\johnd\onedrive\documents\visual studio 2015\Projects\eulers theorem\eulers theorem\bin\Debug\eulers theorem.exe
+c:\users\johnd\onedrive\documents\visual studio 2015\Projects\eulers theorem\eulers theorem\bin\Debug\eulers theorem.pdb
+c:\users\johnd\onedrive\documents\visual studio 2015\Projects\eulers theorem\eulers theorem\obj\Debug\eulers theorem.csprojResolveAssemblyReference.cache
+c:\users\johnd\onedrive\documents\visual studio 2015\Projects\eulers theorem\eulers theorem\obj\Debug\eulers theorem.exe
+c:\users\johnd\onedrive\documents\visual studio 2015\Projects\eulers theorem\eulers theorem\obj\Debug\eulers theorem.pdb
